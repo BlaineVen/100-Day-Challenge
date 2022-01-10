@@ -1,0 +1,25 @@
+.tea{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: rgb(119, 119, 126);
+}
+
+p:hover {
+    color: rgb(44, 216, 199);
+}
+
+img {
+ width: 9em;
+ height: 7em;
+}
+
+
+
+/*Dark Mode*/
+.dark-mode {
+    background-color: black;
+    color: white;
+}
