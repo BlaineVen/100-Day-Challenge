@@ -1,0 +1,35 @@
+.tea{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: rgb(119, 119, 126);
+}
+
+p:hover {
+    color: rgb(44, 119, 216);
+}
+
+img {
+ width: 9em;
+ height: 7em;
+}
+
+
+.box1 {
+    color: aliceblue;
+}
+
+
+.wikibox {
+    width: 200px;
+    float: right;
+    border: 1px solid black;
+}
+
+/*Dark Mode*/
+.dark-mode {
+    background-color: black;
+    color: white;
+}
