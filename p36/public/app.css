@@ -1,0 +1,65 @@
+.tea{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+ width: 9em;
+ height: 7em;
+}
+
+
+.box1 {
+    color: aliceblue;
+}
+
+
+.wikibox {
+    width: 200px;
+    float: right;
+    border: 1px solid black;
+}
+
+/*Dark Mode*/
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+/* Navbar */
+#navagate {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    background-color: #f1f1f1;
+}
+
+li a.active {
+    background-color: rgb(167, 162, 238);
+    color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+.somethingHere{
+    background-color: gray;
+    color: red;
+    inline-size: 13em;
+}
+
+/* jQuery */
+
+#hidelist {
+   display: none; 
+}
